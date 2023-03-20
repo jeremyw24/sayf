@@ -39,9 +39,9 @@ content_blocks:
         suffix: '%'
         text: of discharged patients take their own life
       - prefix:
-        number: 1
+        number: 57,260
         suffix: 
-        text: in 9 discharged patients are re-admitted
+        text: mental health hospitalisations in 2020
   - _bookshop_name: global/header
     title: "Sayf Clinic "
     title_suffix: Features
