@@ -11,50 +11,43 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: home/hero
-    title: Beautiful email campaigns
+    title: Mindful Monitoring for Better Patient Care
     description: >-
-      With Sendit, you can quickly create beautiful rich emails that capture a
-      reader's attention, engage them, and convert them into customers.
+      Sayf Clinic empowers you to effortlessly monitor the mental health and well-being of both in and out-patients, ensuring a positive recovery journey for all.
     image: /images/hero/hero-image-2.png
     image_alt: Reports dashboard
     button:
       text: Try This Free
       link: /signup/
   - _bookshop_name: global/counter
-    title: Scale your
-    title_suffix: Business
+    title: Help Your Patients
+    title_suffix: Recover
     description: >-
-      We have an extensive library of pre-written sales emails, proven marketing
-      templates, and more to get you started on your next project.
+      We understand that mental health recovery is a complex and non-linear process. Sayf Clinic can help to minimize readmissions and reduce the risk of post-care suicide, while also improving patients' outlook on their path to recovery.
     alternate_style: false
     numbers:
+      - prefix: 
+        number: 29
+        suffix: '%'
+        text: of patients are re-admitted to hospital
       - prefix: $
-        number: 200
-        suffix: m
-        text: Venture capital raised
-      - prefix:
-        number: 2016
+        number: 5,025
         suffix:
-        text: Established in
+        text: average cost per patient per day
       - prefix:
-        number: 40
-        suffix: +
-        text: Amazing team members
+        number: 17
+        suffix: '%'
+        text: of discharged patients take their own life
       - prefix:
-        number: 4322
-        suffix: +
-        text: Active users and growing
-  - _bookshop_name: home/video
-    image: /images/video/video-thum.jpg
-    image_alt: Thumbnail for video
-    video_url: https://vimeo.com/45830194
+        number: 1
+        suffix: 
+        text: in 9 discharged patients are re-admitted
   - _bookshop_name: global/header
-    title: "Sendit "
+    title: "Sayf Clinic "
     title_suffix: Features
     remove_top_padding: true
     description: >-
-      Our platform offers the most advanced features including automated email
-      content creation, dynamic personalization, and customer segmentation.
+      Our platform offers a passive method to monitor patients mental health while in hospital care and for a pre-determined period of time following their discharge. Hospital Staff can take the necessary steps to avoid any serious injury or relapse with individual patients.
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
