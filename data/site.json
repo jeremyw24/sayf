@@ -1,9 +1,9 @@
 {
-  "site_title": "Sendit",
-  "description": "A polished, marketing website template built with Astro",
+  "site_title": "Sayf",
+  "description": "Mindful Monitoring for Better Patient Care",
   "favicon_icon": "/images/favicon.ico",
   "favicon_image": "/images/favicon.png",
-  "twitter_site": "@twitter_site",
+  "twitter_site": "@youaresayf",
   "image": "/images/feature/feature-hero.png",
   "image_alt": "/images/feature/feature-hero.png"
 }

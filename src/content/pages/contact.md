@@ -13,17 +13,17 @@ content_blocks:
     title: Let's talk.
     description: Have a question or suggestion? Feel free to drop us a message!
   - _bookshop_name: contact/form
-    address:
-      heading: Office Address
-      address: 123 Train St, San Francisco, CA 9107
+   # address:
+   #   heading: Office Address
+   #   address: 123 Train St, San Francisco, CA 9107
     phone:
       heading: Phone
-      cell: (123) 456 - 7895
+      cell: +61438011814
       image: /images/contact/call-add.svg
       image_alt: call-add
     email:
       heading: Email
-      email: info@example.com
+      email: hello@youaresayf.com.au
       image: /images/contact/directbox-send.svg
       image_alt: send-box
     form:
