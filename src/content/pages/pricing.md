@@ -10,112 +10,86 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: pricing/hero
-    title: A plan for everyone
-    description: Sendit is easy to get started and we have a pricing plan for businesses of all sizes.
+    title: A plan for all carers
+    description: Sayf Care is easy to get started and we have pricing plans for private practice and large care/hospital providers.
 
   - _bookshop_name: pricing/table
     pricing_tier:
       - tier: Free
         highlight_tier: false
-        description: Everything you need to get started.
+        description: 30 Day Free Trial
         currency_symbol: $
         price: 0
         has_discount: false
         discount_price: 0
         features:
-          - item: 1 Email Campaign
+          - item: 100 Patients
             active_feature: true
-          - item: 1 Year Premium Support
+          - item: Full Premium Support
             active_feature: true
-          - item: Regular Update for 1 Year
+          - item: Unlimited Clinic Users
             active_feature: true
-          - item: 90+ Widgets & Extensions
-            active_feature: true
-          - item: 23+ Templates
-            active_feature: true
-          - item: Over 800 Section Blocks
-            active_feature: false
-          - item: Support
-            active_feature: false
-          - item: 3 filters
-            active_feature: false
-          - item: Unlimited activity history
+          - item: Unlimited status history
             active_feature: false
         button:
           link: /signup
-          text: Try This Free
-      - tier: Pro
+          text: Register Interest
+      - tier: Private Practice
         highlight_tier: true
-        description: More collaborative power and unlimited boards for fast-growing.
+        description: This package is tailor to clinicians in private practice.
         currency_symbol: $
-        price: 199
-        has_discount: true
-        discount_price: 125
+        price: 120
+        has_discount: false
+        discount_price: 
         features:
-          - item: 1 Email Campaign
+          - item: 100 Patients
             active_feature: true
-          - item: 1 Year Premium Support
+          - item: Full Premium Support
             active_feature: true
-          - item: Regular Update for 1 Year
+          - item: Access to all updates
             active_feature: true
-          - item: 90+ Widgets & Extensions
+          - item: 10 Clinic Users
             active_feature: true
-          - item: 23+ Templates
-            active_feature: true
-          - item: Over 800 Section Blocks
-            active_feature: true
-          - item: Support
-            active_feature: false
-          - item: 3 filters
-            active_feature: false
           - item: Unlimited activity history
             active_feature: false
         button:
           link: /signup
-          text: Try This Free
-      - tier: Business
+          text: Register Interest
+      - tier: Enterprise
         highlight_tier: false
-        description: For starters Includes unlimited members
+        description: Ideal for large care providers or hospitals
         currency_symbol: $
-        price: 499
-        has_discount: true
+        price: 400
+        has_discount: false
         discount_price: 350
         features:
-          - item: 1 Email Campaign
+          - item: Unlimited Patients
             active_feature: true
-          - item: 1 Year Premium Support
+          - item: Full Premium Support
             active_feature: true
-          - item: Regular Update for 1 Year
+          - item: Access to all updates
             active_feature: true
-          - item: 90+ Widgets & Extensions
-            active_feature: true
-          - item: 23+ Templates
-            active_feature: true
-          - item: Over 800 Section Blocks
-            active_feature: true
-          - item: Support
-            active_feature: true
-          - item: 3 filters
+          - item: Unlimited Clinic Users
             active_feature: true
           - item: Unlimited activity history
-            active_feature: true
+            active_feature: false
         button:
           link: /signup
-          text: Try This Free
+          text: Register Interest
 
   - _bookshop_name: global/faq
     title: Have
     title_suffix: Questions?
-    description: We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.
+    description: We believe, using technology, we can help people on their mental health recovery journey. Using technology, apps and associated workflows to improve patient outlook and general wellbeing post care.
     FAQ:
-      - title: Is there a maximum numbers of emails I can send each month?
-        description: No, the prices include unlimited emails. Send to your heart's content.
+      - title: Is there a maximum number of patients I can manage?
+        description: No, you can add as many patients as required and develop an internal process for off-boarding them from Sayf Care.
       - title: Where can I find out more information?
-        description: Right here on this website, or contact our support team.
-      - title: Do you have pricing for non-profits?
-        description: Yes, contact our support team and we'll get you set up on our non-profit plan.
+        description: Right here on this website, or contact us today and we would be more than happy to answer any further questions you have.
+      - title: What do you do with the profits?
+        description: We are a social enterprise working to reduce and ultimately prevent suicide. Profit from Sayf Care is diverted to maintaining our free [Sayf App](https:/youaresayf.com.au).
       - title: What forms of payment do you accept?
-        description: We accept credit cards, checks, and cash.
+        description: We prefer subscriptions are paid via Credit Card but other arrangements can be made based on your procurement processes.
       - title: In which currencies can I make payments?
-        description: All payments are in **USD**.
+        description: All payments are in **AUD**.
 ---

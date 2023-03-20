@@ -6,20 +6,8 @@
       "text": "Home"
     },
     {
-      "link": "/features/",
-      "text": "Features"
-    },
-    {
       "link": "/pricing/",
       "text": "Pricing"
-    },
-    {
-      "link": "/about/",
-      "text": "About"
-    },
-    {
-      "link": "/blog/",
-      "text": "Blog"
     },
     {
       "link": "/contact/",

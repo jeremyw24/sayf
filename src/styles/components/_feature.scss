@@ -3,11 +3,13 @@
 **********/
 .feature,
 .feature-two {
+  padding-top: 10%;
   position: relative;
   overflow: hidden;
 
   .section-header {
     padding-bottom: $base-padding * 10;
+    padding-top: 2rem;
 
     @include media-breakpoint-down-xxl {
       padding-bottom: $base-padding * 7;

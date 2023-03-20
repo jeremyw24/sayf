@@ -59,7 +59,7 @@ content_blocks:
       text: Register Your Interest
     reversed: false
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-two.png
+    image: /images/feature/feature-card-six.png
     image_alt: Visitor chart
     title: See all stauts updates in one place
     description: >-

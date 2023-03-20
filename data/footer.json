@@ -38,24 +38,11 @@
         },
         {
           "link": "/pricing",
-          "text": "Price"
+          "text": "Pricing"
         },
         {
           "link": "/about",
           "text": "About"
-        }
-      ]
-    },
-    {
-      "title": "Community",
-      "links": [
-        {
-          "link": "/blog",
-          "text": "Blog"
-        },
-        {
-          "link": "/feed.xml",
-          "text": "RSS Feed"
         }
       ]
     },
