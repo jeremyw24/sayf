@@ -6,6 +6,10 @@
       "text": "Home"
     },
     {
+      "link": "/about",
+      "text": "About"
+    },
+    {
       "link": "/pricing/",
       "text": "Pricing"
     },
