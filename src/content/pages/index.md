@@ -23,7 +23,7 @@ content_blocks:
     title: Help Your Patients
     title_suffix: Recover
     description: >-
-      We understand that mental health recovery is a complex and non-linear process. Sayf Clinic can help to minimize readmissions and reduce the risk of post-care suicide, while also improving patients' outlook on their path to recovery.
+      We understand that mental health recovery is a complex and non-linear process. Sayf Care can help to minimize readmissions and reduce the risk of post-care suicide, while also improving patients' outlook on their path to recovery.
     alternate_style: false
     numbers:
       - prefix: 
@@ -43,7 +43,7 @@ content_blocks:
         suffix: 
         text: mental health hospitalisations in 2020
   - _bookshop_name: global/header
-    title: "Sayf Clinic "
+    title: "Sayf Care "
     title_suffix: Features
     remove_top_padding: true
     description: >-
