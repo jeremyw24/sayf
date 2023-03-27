@@ -14,7 +14,7 @@ content_blocks:
     title: Mindful Monitoring for Better Patient Care
     description: >-
       Sayf Care empowers you to effortlessly monitor the mental health and well-being of both in and out-patients, ensuring a positive recovery journey for all.
-    image: /images/hero/hero-image-2.png
+    image: /images/hero/SayfDashboard.png
     image_alt: Reports dashboard
     button:
       text: Register Interest
