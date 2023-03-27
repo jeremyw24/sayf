@@ -49,18 +49,18 @@ content_blocks:
     description: >-
       Our platform offers a passive method to monitor patients mental health while in hospital care and for a pre-determined period of time following their discharge. Hospital Staff can take the necessary steps to avoid any serious injury or relapse with individual patients.
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-one.png
-    image_alt: Message inbox
+    image: /images/feature/SayfInviteUser.png
+    image_alt: User Invite Modal
     title: Onboard new patients in seconds
     description: >-
-      Onboard new patients to Sayf Care directly via SMS or Scan a QR Code with their device. Patients simply answer a few questions and they will be instantly connected to your Sayf Care.
+      Onboard new patients to Sayf Care directly via SMS, Email or Scan a QR Code with their device. Patients simply answer a few questions and they will be instantly connected to your Sayf Care.
     button:
       link: /signup
       text: Register Your Interest
     reversed: false
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-six.png
-    image_alt: Visitor chart
+    image: /images/feature/SayfReports.png
+    image_alt: Status Update Report
     title: See all stauts updates in one place
     description: >-
       As your patients update their status via the Sayf App, this will be displayed on your dashboard in real time with historical analytics available.
@@ -69,7 +69,7 @@ content_blocks:
       text: Register Your Interest
     reversed: true
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-three.png
+    image: /images/feature/SayfAlert.png
     image_alt: File upload
     title: Take immediate action
     description: >-
